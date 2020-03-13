@@ -14,3 +14,5 @@ Click on the Submit button.
 Выбрать radiobutton "Robots rule!".
 Нажать на кнопку Submit.
 
+def calc(x):
+  return str(math.log(abs(12*math.sin(int(x)))))
