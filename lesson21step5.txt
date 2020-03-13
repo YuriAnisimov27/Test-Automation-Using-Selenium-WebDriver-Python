@@ -1,0 +1,16 @@
+Open the page http://suninjuly.github.io/math.html.
+Read the value for the variable x.
+Calculate the mathematical function of x (the code for this is given below).
+Enter the answer in the text box.
+Check checkbox "I'm the robot".
+Select radiobutton "Robots rule!"
+Click on the Submit button.
+
+Открыть страницу http://suninjuly.github.io/math.html.
+Считать значение для переменной x.
+Посчитать математическую функцию от x (код для этого приведён ниже).
+Ввести ответ в текстовое поле.
+Отметить checkbox "I'm the robot".
+Выбрать radiobutton "Robots rule!".
+Нажать на кнопку Submit.
+
