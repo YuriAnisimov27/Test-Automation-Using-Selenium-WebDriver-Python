@@ -1,0 +1,17 @@
+Open the page http://SunInJuly.github.io/execute_script.html.
+Read the value for the variable x.
+Calculate the math function of x.
+Scroll down the page.
+Enter the answer in the text box.
+Select checkbox "I'm the robot".
+Toggle radiobutton "Robots rule!"
+Click on the "Submit" button.
+
+Открыть страницу http://SunInJuly.github.io/execute_script.html.
+Считать значение для переменной x.
+Посчитать математическую функцию от x.
+Проскроллить страницу вниз.
+Ввести ответ в текстовое поле.
+Выбрать checkbox "I'm the robot".
+Переключить radiobutton "Robots rule!".
+Нажать на кнопку "Submit".
