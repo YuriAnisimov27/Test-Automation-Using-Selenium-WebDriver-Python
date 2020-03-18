@@ -1,0 +1,10 @@
+Open page http://suninjuly.github.io/file_input.html
+Fill in the text fields: first name, last name, email
+Upload file. The file must have a .txt extension and may be empty
+Click "Submit"
+
+
+Открыть страницу http://suninjuly.github.io/file_input.html
+Заполнить текстовые поля: имя, фамилия, email
+Загрузить файл. Файл должен иметь расширение .txt и может быть пустым
+Нажать кнопку "Submit"
