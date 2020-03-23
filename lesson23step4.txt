@@ -1,0 +1,10 @@
+Open page http://suninjuly.github.io/alert_accept.html
+Press the button
+Accept confirm
+To get a number with an answer
+
+
+Открыть страницу http://suninjuly.github.io/alert_accept.html
+Нажать на кнопку
+Принять confirm
+На новой странице решить капчу для роботов, чтобы получить число с ответом
