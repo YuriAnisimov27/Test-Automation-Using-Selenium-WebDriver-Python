@@ -1,0 +1,10 @@
+Open page http://suninjuly.github.io/redirect_accept.html
+Press the button
+Switch to a new tab
+Go through the captcha for the robot and get a response number
+
+
+Открыть страницу http://suninjuly.github.io/redirect_accept.html
+Нажать на кнопку
+Переключиться на новую вкладку
+Пройти капчу для робота и получить число-ответ
